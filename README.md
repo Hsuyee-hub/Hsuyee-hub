@@ -1,16 +1,24 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Hsuyee-hub/Hsuyee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Results-driven Manager** with a strong foundation in **Finance and Operations**, now pivoting into **Data Analytics**. 
 
-Here are some ideas to get you started:
+After several years in management, I realized that my most impactful decisions were always rooted in data. My passion for uncovering hidden insights led me to evolve my career, combining my management experience with technical skills to solve complex business problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in **bridging the gap between raw data and strategic business decisions**. My strong background in Finance & Accounting gives me a unique advantage: I don't just build dashboards—I ensure the data is accurate and impactful for the business.
+
+I am now seeking an exciting opportunity to transform raw data into actionable insights that tackle real business challenges.
+
+---
+
+### 🛠 My Skill Set
+
+| **Category** | **Skills** |
+| :--- | :--- |
+| **Data Tools** | MySQL, Power BI, Excel, Python |
+| **Analytical Foundation** | Interpreting Data, Reporting, Forecasting, Finance & Accounting, Applied Statistics |
+| **Soft Skills** | Logical Reasoning, Leadership, Problem Solving, Strategic Communication, Critical Thinking |
+
+---
+
+### 🌍 Let's Connect
+* Currently exploring **remote positions** where I can leverage my experience and analytical expertise.
