@@ -4,7 +4,7 @@
 
 After several years in management, I realized that my most impactful decisions were always rooted in data. My passion for uncovering hidden insights in data led me to evolve my career into a Data Analyst role, combining my management experience with technical skills to solve complex business problems.
 
-I specialize in **bridging the gap between raw data and strategic business decisions**. My strong background in Finance & Accounting gives me a unique advantage: I don't just build dashboards—I ensure the data is accurate and impactful for the business.
+I specialize in **bridging the gap between raw data and strategic business decisions**. My strong background in Finance & Accounting gives me a unique advantage: I don't just build dashboards, I ensure the data is accurate and impactful for the business.
 
 I am now seeking an exciting opportunity to transform raw data into actionable insights that tackle real business challenges.
 
